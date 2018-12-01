@@ -15,5 +15,4 @@ public class User {
     private String name;
     private Date createTime;
     private String departmentId;
-    asdasd
 }
