@@ -15,6 +15,6 @@ public class UserServiceTest {
 
     @Test
     public void testService(){
-        System.out.println(service+"++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++====================");
+        System.out.println();
     }
 }
