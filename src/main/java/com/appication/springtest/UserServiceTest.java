@@ -15,6 +15,6 @@ public class UserServiceTest {
 
     @Test
     public void testService(){
-        System.out.println(1234510远程仓库xinxin);
+        System.out.println(1234510远程仓库);
     }
 }
