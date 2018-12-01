@@ -15,6 +15,5 @@ public class UserServiceTest {
 
     @Test
     public void testService(){
-        112332
     }
 }
