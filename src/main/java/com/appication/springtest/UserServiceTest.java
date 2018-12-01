@@ -17,5 +17,4 @@ public class UserServiceTest {
     public void testService(){
         System.out.println(service+"++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++====================");
     }
-    @Test22 chaochao123123zhangyonghong
 }
