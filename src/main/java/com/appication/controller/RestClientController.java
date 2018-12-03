@@ -29,7 +29,6 @@ public class RestClientController {
         map.put("userId", "3");
         map.put("name", "chaochao");
         User user = client.getForObject(url, User.class, map);
-        client.
         return user;
 
     }
