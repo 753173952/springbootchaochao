@@ -19,7 +19,7 @@ public class startSpringBoot2 {
         return "index123123";
     }
     public String say(){
-        return "我是远程";
+        return "我是远程123123";
     }
 
 }
