@@ -14,7 +14,7 @@ public class startSpringBoot2 {
     public static void main(String[] args) {
         SpringApplication.run(startSpringBoot2.class, args);
     }
-    @RequestMapping("/")
+    @RequestMapping("/chaochao")
     public String toIndex(){
         return "index";
     }
