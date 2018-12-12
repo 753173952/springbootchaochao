@@ -19,6 +19,6 @@ public class startSpringBoot2 {
         return "index123123";
     }
     public String say(){
-        return "1237";
+        return "1236";
     }
 }
