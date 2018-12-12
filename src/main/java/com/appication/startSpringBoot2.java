@@ -21,4 +21,7 @@ public class startSpringBoot2 {
     public String say(){
         return "我是远程";
     }
+    public String sayHelloWorld(){
+        ruturn null;
+    }
 }
