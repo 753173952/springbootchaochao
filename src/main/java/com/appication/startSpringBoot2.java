@@ -18,5 +18,4 @@ public class startSpringBoot2 {
     public String toIndex(){
         return "index";
     }
-    public void
 }
