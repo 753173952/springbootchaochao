@@ -16,7 +16,9 @@ public class startSpringBoot2 {
     }
     @RequestMapping("/chaochao")
     public String toIndex(){
-        return "index";
+        return "index123123";
     }
-    public void
+    public String say(){
+        return "123";
+    }
 }
